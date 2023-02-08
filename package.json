@@ -50,5 +50,8 @@
     "prop-types": "15.x"
   },
   "contributors": [],
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npm.alibaba-inc.com"
+  }
 }
