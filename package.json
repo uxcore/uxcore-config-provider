@@ -43,7 +43,9 @@
     "react-test-renderer": "16.x",
     "uxcore-icon": "*",
     "uxcore-kuma": "*",
-    "uxcore-tools": "^0.3.3"
+    "uxcore-tools": "^0.3.3",
+    "uxcore-dialog": "*",
+    "uxcore-button": "*"
   },
   "dependencies": {
     "classnames": "^2.1.2",
