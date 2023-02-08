@@ -30,7 +30,7 @@ class ConfigProvider extends React.Component {
   }
 
   getChildContext() {
-    return {localePack: this.props.localePack};
+    return { localePack: this.props.localePack };
   }
 
   render() {
